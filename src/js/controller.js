@@ -145,7 +145,7 @@ const controlAddRecipe = async function (newRecipe) {
 
 
 const newFeature = function () {
-  console.log('welcome to the app!');
+  console.log('testing continuous integration');
 }
 
 const init = function () {
